@@ -1,4 +1,12 @@
 {
   "apiKey": "AIzaSyB0sTnOSmYR-UpjZN_gzbnHTkOnOnv3ba0",
-  "spreadsheetId": "1IWQIgkpcTjOJCC51JXq3hORRaE82zEjsWMdVtSnLahg"
+  "spreadsheetId": "1IWQIgkpcTjOJCC51JXq3hORRaE82zEjsWMdVtSnLahg",
+  "timezone": "America/New_York",
+  "_comment": "Use start and end for countdown only",
+  "startHour": 9,
+  "startMinute": 0,
+  "endHour": 17,
+  "endMinute": 30,
+  "radarUrl": "https://radar.weather.gov/"
 }
+
