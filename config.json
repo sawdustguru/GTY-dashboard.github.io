@@ -7,6 +7,6 @@
   "startMinute": 0,
   "endHour": 17,
   "endMinute": 30,
-  "radarUrl": "https://radar.weather.gov/"
+  "radarUrl": "https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTEwNS4xNDUsNDAuMTg3XSwibG9jYXRpb24iOlstMTA1LjEwMSw0MC4xNjZdLCJ6b29tIjoxMC4wNTQ3NzY2NTUyODY5NjYsImxheWVyIjoiYnJlZl9xY2QifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5IjpmYWxzZSwib3BhY2l0eSI6eyJhbGVydHMiOjAuOCwibG9jYWwiOjAuNiwibG9jYWxTdGF0aW9ucyI6MC44LCJuYXRpb25hbCI6MC42fX0%3D"
 }
 
